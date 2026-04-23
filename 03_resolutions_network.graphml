@@ -1,0 +1,2888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="A/RES/78/63" />
+    <node id="A/RES/78/78" />
+    <node id="A/RES/78/75" />
+    <node id="A/RES/78/11" />
+    <node id="A/RES/ES-10/21" />
+    <node id="A/RES/78/77" />
+    <node id="A/RES/78/73" />
+    <node id="A/RES/78/17" />
+    <node id="A/RES/78/76" />
+    <node id="A/RES/ES-10/22" />
+    <node id="A/RES/78/74" />
+    <node id="A/RES/78/170" />
+    <node id="A/RES/ES-10/24" />
+    <node id="A/RES/79/74" />
+    <node id="A/RES/ES-10/25" />
+    <node id="A/RES/79/229" />
+    <node id="A/RES/80/79" />
+    <node id="A/RES/78/251" />
+    <node id="A/RES/80/78" />
+    <node id="A/RES/79/88" />
+    <node id="A/RES/79/91" />
+    <node id="A/RES/79/16" />
+    <node id="A/RES/79/256" />
+    <node id="A/RES/80/73" />
+    <node id="A/RES/80/77" />
+    <node id="A/RES/80/116" />
+    <node id="A/RES/79/232" />
+    <node id="A/RES/80/72" />
+    <node id="A/RES/ES-10/23" />
+    <node id="A/RES/79/81" />
+    <node id="A/RES/79/89" />
+    <node id="A/RES/ES-10/27" />
+    <node id="A/RES/80/158" />
+    <node id="A/RES/79/83" />
+    <node id="A/RES/79/82" />
+    <node id="A/RES/80/67" />
+    <node id="A/RES/80/17" />
+    <node id="A/RES/80/81" />
+    <node id="A/RES/80/82" />
+    <node id="A/RES/80/80" />
+    <node id="A/RES/79/90" />
+    <node id="A/RES/ES-10/26" />
+    <node id="A/DEC/80/506" />
+    <node id="A/RES/80/1" />
+    <edge source="A/RES/78/63" target="A/RES/78/78">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/75">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/11">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/21">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/77">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/73">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/17">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/76">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/22">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/74">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/170">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/24">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/74">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/25">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/229">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/79">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/78/251">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/78">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/88">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/91">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/16">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/256">
+      <data key="d0">2.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/73">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/77">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/116">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/232">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/72">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/23">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/81">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/89">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/27">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/158">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/83">
+      <data key="d0">2.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/82">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/67">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/17">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/81">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/82">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/80">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/79/90">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/ES-10/26">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/DEC/80/506">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/63" target="A/RES/80/1">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/75">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/11">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/21">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/77">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/73">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/17">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/76">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/22">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/74">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/170">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/24">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/74">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/25">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/229">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/79">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/78/251">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/78">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/88">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/91">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/16">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/256">
+      <data key="d0">2.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/73">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/77">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/116">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/232">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/72">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/23">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/81">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/89">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/27">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/158">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/83">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/82">
+      <data key="d0">1.8181818181818181</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/67">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/17">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/81">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/82">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/80">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/79/90">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/ES-10/26">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/DEC/80/506">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/78" target="A/RES/80/1">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/11">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/21">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/77">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/73">
+      <data key="d0">3.75</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/17">
+      <data key="d0">3.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/76">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/22">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/74">
+      <data key="d0">3.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/170">
+      <data key="d0">3.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/24">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/74">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/25">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/229">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/79">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/78/251">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/78">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/88">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/91">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/16">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/256">
+      <data key="d0">2.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/73">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/77">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/116">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/232">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/72">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/23">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/81">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/89">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/27">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/158">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/83">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/82">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/67">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/17">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/81">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/82">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/80">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/79/90">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/ES-10/26">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/DEC/80/506">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/75" target="A/RES/80/1">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/21">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/77">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/73">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/17">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/76">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/22">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/74">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/170">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/24">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/74">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/25">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/229">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/79">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/78/251">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/78">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/88">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/91">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/16">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/256">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/73">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/77">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/116">
+      <data key="d0">1.8181818181818181</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/232">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/72">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/23">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/81">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/89">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/27">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/158">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/83">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/82">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/67">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/17">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/81">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/82">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/80">
+      <data key="d0">1.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/79/90">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/ES-10/26">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/DEC/80/506">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/11" target="A/RES/80/1">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/77">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/73">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/17">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/76">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/22">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/74">
+      <data key="d0">2.5</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/170">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/24">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/74">
+      <data key="d0">2.5</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/25">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/229">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/79">
+      <data key="d0">2.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/78/251">
+      <data key="d0">2.25</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/78">
+      <data key="d0">2.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/88">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/91">
+      <data key="d0">2.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/16">
+      <data key="d0">2.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/256">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/73">
+      <data key="d0">2.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/77">
+      <data key="d0">2.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/116">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/232">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/72">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/23">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/81">
+      <data key="d0">2.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/89">
+      <data key="d0">2.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/27">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/158">
+      <data key="d0">2.409090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/83">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/82">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/67">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/17">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/81">
+      <data key="d0">2.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/82">
+      <data key="d0">2.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/80">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/79/90">
+      <data key="d0">2.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/ES-10/26">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/DEC/80/506">
+      <data key="d0">2.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/21" target="A/RES/80/1">
+      <data key="d0">2.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/73">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/17">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/76">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/22">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/74">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/170">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/24">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/74">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/25">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/229">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/79">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/78/251">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/78">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/88">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/91">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/16">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/256">
+      <data key="d0">2.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/73">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/77">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/116">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/232">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/72">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/23">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/81">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/89">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/27">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/158">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/83">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/82">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/67">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/17">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/81">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/82">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/80">
+      <data key="d0">1.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/79/90">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/ES-10/26">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/DEC/80/506">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/77" target="A/RES/80/1">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/78/17">
+      <data key="d0">3.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/78/76">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/22">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/78/74">
+      <data key="d0">3.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/78/170">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/24">
+      <data key="d0">2.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/74">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/25">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/229">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/79">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/78/251">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/78">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/88">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/91">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/16">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/256">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/73">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/77">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/116">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/232">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/72">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/23">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/81">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/89">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/27">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/158">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/83">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/82">
+      <data key="d0">1.7272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/67">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/17">
+      <data key="d0">3.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/81">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/82">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/80">
+      <data key="d0">1.7727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/79/90">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/ES-10/26">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/DEC/80/506">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/73" target="A/RES/80/1">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/78/76">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/22">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/78/74">
+      <data key="d0">3.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/78/170">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/24">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/74">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/25">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/229">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/79">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/78/251">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/78">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/88">
+      <data key="d0">3.75</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/91">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/16">
+      <data key="d0">3.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/256">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/73">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/77">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/116">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/232">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/72">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/23">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/81">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/89">
+      <data key="d0">3.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/27">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/158">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/83">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/82">
+      <data key="d0">1.7272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/67">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/17">
+      <data key="d0">3.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/81">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/82">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/80">
+      <data key="d0">1.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/79/90">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/ES-10/26">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/DEC/80/506">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/17" target="A/RES/80/1">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/22">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/78/74">
+      <data key="d0">1.8181818181818181</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/78/170">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/24">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/74">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/25">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/229">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/79">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/78/251">
+      <data key="d0">1.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/78">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/88">
+      <data key="d0">1.7272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/91">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/16">
+      <data key="d0">1.6590909090909092</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/256">
+      <data key="d0">1.6136363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/73">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/77">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/116">
+      <data key="d0">1.7272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/232">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/72">
+      <data key="d0">1.7727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/23">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/81">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/89">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/27">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/158">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/83">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/82">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/67">
+      <data key="d0">1.8181818181818181</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/17">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/81">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/82">
+      <data key="d0">1.7272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/80">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/79/90">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/ES-10/26">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/DEC/80/506">
+      <data key="d0">1.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/76" target="A/RES/80/1">
+      <data key="d0">1.5909090909090908</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/78/74">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/78/170">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/ES-10/24">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/74">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/ES-10/25">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/229">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/79">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/78/251">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/78">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/88">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/91">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/16">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/256">
+      <data key="d0">2.5</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/73">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/77">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/116">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/232">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/72">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/ES-10/23">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/81">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/89">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/ES-10/27">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/158">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/83">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/82">
+      <data key="d0">2.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/67">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/17">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/81">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/82">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/80">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/79/90">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/ES-10/26">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/DEC/80/506">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/22" target="A/RES/80/1">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/78/170">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/ES-10/24">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/74">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/ES-10/25">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/229">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/79">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/78/251">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/78">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/88">
+      <data key="d0">3.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/91">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/16">
+      <data key="d0">3.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/256">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/73">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/77">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/116">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/232">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/72">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/ES-10/23">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/81">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/89">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/ES-10/27">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/158">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/83">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/82">
+      <data key="d0">1.6590909090909092</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/67">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/17">
+      <data key="d0">3.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/81">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/82">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/80">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/79/90">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/ES-10/26">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/DEC/80/506">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/74" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/ES-10/24">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/74">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/ES-10/25">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/229">
+      <data key="d0">3.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/79">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/78/251">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/78">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/88">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/91">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/16">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/256">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/73">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/77">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/116">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/232">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/72">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/ES-10/23">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/81">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/89">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/ES-10/27">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/158">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/83">
+      <data key="d0">2.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/82">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/67">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/17">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/81">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/82">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/80">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/79/90">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/ES-10/26">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/DEC/80/506">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/78/170" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/74">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/ES-10/25">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/229">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/79">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/78/251">
+      <data key="d0">2.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/78">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/88">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/91">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/16">
+      <data key="d0">2.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/256">
+      <data key="d0">2.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/73">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/77">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/116">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/232">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/72">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/ES-10/23">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/81">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/89">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/ES-10/27">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/158">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/83">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/82">
+      <data key="d0">2.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/67">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/17">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/81">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/82">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/80">
+      <data key="d0">2.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/79/90">
+      <data key="d0">2.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/ES-10/26">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/DEC/80/506">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/24" target="A/RES/80/1">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/ES-10/25">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/229">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/79">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/78/251">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/78">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/88">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/91">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/16">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/256">
+      <data key="d0">2.5</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/73">
+      <data key="d0">2.590909090909091</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/77">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/116">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/232">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/72">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/ES-10/23">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/81">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/89">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/ES-10/27">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/158">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/83">
+      <data key="d0">2.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/82">
+      <data key="d0">2.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/67">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/17">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/81">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/82">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/80">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/79/90">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/ES-10/26">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/DEC/80/506">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/74" target="A/RES/80/1">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/229">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/79">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/78/251">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/78">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/88">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/91">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/16">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/256">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/73">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/77">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/116">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/232">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/72">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/ES-10/23">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/81">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/89">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/ES-10/27">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/158">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/83">
+      <data key="d0">2.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/82">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/67">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/17">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/81">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/82">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/80">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/79/90">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/ES-10/26">
+      <data key="d0">3.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/DEC/80/506">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/25" target="A/RES/80/1">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/79">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/78/251">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/78">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/88">
+      <data key="d0">3.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/91">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/16">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/256">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/73">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/77">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/116">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/232">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/72">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/ES-10/23">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/81">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/89">
+      <data key="d0">3.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/ES-10/27">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/158">
+      <data key="d0">3.590909090909091</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/83">
+      <data key="d0">2.25</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/82">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/67">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/17">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/81">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/82">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/80">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/79/90">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/ES-10/26">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/DEC/80/506">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/229" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/78/251">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/78">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/88">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/91">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/16">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/256">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/73">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/77">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/116">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/232">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/72">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/ES-10/23">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/81">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/89">
+      <data key="d0">3.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/ES-10/27">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/158">
+      <data key="d0">3.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/83">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/82">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/67">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/17">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/81">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/82">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/80">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/79/90">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/ES-10/26">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/DEC/80/506">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/79" target="A/RES/80/1">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/78">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/88">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/91">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/16">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/256">
+      <data key="d0">2.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/73">
+      <data key="d0">2.5</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/77">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/116">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/232">
+      <data key="d0">2.590909090909091</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/72">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/ES-10/23">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/81">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/89">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/ES-10/27">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/158">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/83">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/82">
+      <data key="d0">1.6590909090909092</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/67">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/17">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/81">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/82">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/80">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/79/90">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/ES-10/26">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/DEC/80/506">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/78/251" target="A/RES/80/1">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/88">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/91">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/16">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/256">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/73">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/77">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/116">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/232">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/72">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/ES-10/23">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/81">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/89">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/ES-10/27">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/158">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/83">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/82">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/67">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/17">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/81">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/82">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/80">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/79/90">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/ES-10/26">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/DEC/80/506">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/78" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/91">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/16">
+      <data key="d0">3.727272727272727</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/256">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/73">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/77">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/116">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/232">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/72">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/ES-10/23">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/81">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/89">
+      <data key="d0">3.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/ES-10/27">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/158">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/83">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/82">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/67">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/17">
+      <data key="d0">3.75</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/81">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/82">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/80">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/79/90">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/ES-10/26">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/DEC/80/506">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/79/88" target="A/RES/80/1">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/16">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/256">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/73">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/77">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/116">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/232">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/72">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/ES-10/23">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/81">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/89">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/ES-10/27">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/158">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/83">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/82">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/67">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/17">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/81">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/82">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/80">
+      <data key="d0">1.9318181818181819</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/79/90">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/ES-10/26">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/DEC/80/506">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/91" target="A/RES/80/1">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/256">
+      <data key="d0">2.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/73">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/77">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/116">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/232">
+      <data key="d0">2.840909090909091</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/72">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/ES-10/23">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/81">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/89">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/ES-10/27">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/158">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/83">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/82">
+      <data key="d0">1.6818181818181819</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/67">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/17">
+      <data key="d0">3.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/81">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/82">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/80">
+      <data key="d0">1.6136363636363635</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/79/90">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/ES-10/26">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/DEC/80/506">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/79/16" target="A/RES/80/1">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/73">
+      <data key="d0">2.340909090909091</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/77">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/116">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/232">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/72">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/ES-10/23">
+      <data key="d0">2.590909090909091</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/81">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/89">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/ES-10/27">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/158">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/83">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/82">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/67">
+      <data key="d0">2.409090909090909</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/17">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/81">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/82">
+      <data key="d0">2.5681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/80">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/79/90">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/ES-10/26">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/DEC/80/506">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/256" target="A/RES/80/1">
+      <data key="d0">2.477272727272727</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/77">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/116">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/232">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/72">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/ES-10/23">
+      <data key="d0">2.6363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/81">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/89">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/ES-10/27">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/158">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/83">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/82">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/67">
+      <data key="d0">2.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/17">
+      <data key="d0">2.727272727272727</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/81">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/82">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/80">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/79/90">
+      <data key="d0">2.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/ES-10/26">
+      <data key="d0">2.8636363636363638</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/DEC/80/506">
+      <data key="d0">2.6818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/73" target="A/RES/80/1">
+      <data key="d0">2.659090909090909</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/116">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/232">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/72">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/ES-10/23">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/81">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/89">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/ES-10/27">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/158">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/83">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/82">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/67">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/17">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/81">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/82">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/80">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/79/90">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/ES-10/26">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/DEC/80/506">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/77" target="A/RES/80/1">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/232">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/72">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/ES-10/23">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/81">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/89">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/ES-10/27">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/158">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/83">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/82">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/67">
+      <data key="d0">2.772727272727273</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/17">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/81">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/82">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/80">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/79/90">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/ES-10/26">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/DEC/80/506">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/116" target="A/RES/80/1">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/72">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/ES-10/23">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/79/81">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/79/89">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/ES-10/27">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/158">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/79/83">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/79/82">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/67">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/17">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/81">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/82">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/80">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/79/90">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/ES-10/26">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/DEC/80/506">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/79/232" target="A/RES/80/1">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/ES-10/23">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/79/81">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/79/89">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/ES-10/27">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/158">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/79/83">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/79/82">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/67">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/17">
+      <data key="d0">3.3636363636363638</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/81">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/82">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/80">
+      <data key="d0">2.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/79/90">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/ES-10/26">
+      <data key="d0">3.4545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/DEC/80/506">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/72" target="A/RES/80/1">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/79/81">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/79/89">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/ES-10/27">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/158">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/79/83">
+      <data key="d0">2.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/79/82">
+      <data key="d0">2.272727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/67">
+      <data key="d0">2.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/17">
+      <data key="d0">3.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/81">
+      <data key="d0">3.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/82">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/80">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/79/90">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/ES-10/26">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/DEC/80/506">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/23" target="A/RES/80/1">
+      <data key="d0">2.8863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/79/89">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/ES-10/27">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/158">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/79/83">
+      <data key="d0">2.25</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/79/82">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/67">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/17">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/81">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/82">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/80">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/79/90">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/ES-10/26">
+      <data key="d0">3.5454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/DEC/80/506">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/79/81" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/ES-10/27">
+      <data key="d0">3.3863636363636362</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/158">
+      <data key="d0">3.522727272727273</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/79/83">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/79/82">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/67">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/17">
+      <data key="d0">3.6136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/81">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/82">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/80">
+      <data key="d0">1.8636363636363635</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/79/90">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/ES-10/26">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/DEC/80/506">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/89" target="A/RES/80/1">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/158">
+      <data key="d0">3.4318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/79/83">
+      <data key="d0">2.090909090909091</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/79/82">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/67">
+      <data key="d0">2.9318181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/17">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/81">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/82">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/80">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/79/90">
+      <data key="d0">3.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/ES-10/26">
+      <data key="d0">3.477272727272727</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/DEC/80/506">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/27" target="A/RES/80/1">
+      <data key="d0">3.159090909090909</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/79/83">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/79/82">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/67">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/17">
+      <data key="d0">3.5</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/81">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/82">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/80">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/79/90">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/ES-10/26">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/DEC/80/506">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/80/158" target="A/RES/80/1">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/79/82">
+      <data key="d0">2.227272727272727</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/67">
+      <data key="d0">2.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/17">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/81">
+      <data key="d0">2.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/82">
+      <data key="d0">2.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/80">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/79/90">
+      <data key="d0">2.1818181818181817</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/ES-10/26">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/DEC/80/506">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="A/RES/79/83" target="A/RES/80/1">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/67">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/17">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/81">
+      <data key="d0">1.9090909090909092</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/82">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/80">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/79/90">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/ES-10/26">
+      <data key="d0">2.1136363636363638</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/DEC/80/506">
+      <data key="d0">1.8409090909090908</data>
+    </edge>
+    <edge source="A/RES/79/82" target="A/RES/80/1">
+      <data key="d0">1.6590909090909092</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/80/17">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/80/81">
+      <data key="d0">2.909090909090909</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/80/82">
+      <data key="d0">2.8181818181818183</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/80/80">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/79/90">
+      <data key="d0">2.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/ES-10/26">
+      <data key="d0">2.977272727272727</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/DEC/80/506">
+      <data key="d0">2.75</data>
+    </edge>
+    <edge source="A/RES/80/67" target="A/RES/80/1">
+      <data key="d0">2.7045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/80/81">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/80/82">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/80/80">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/79/90">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/ES-10/26">
+      <data key="d0">3.409090909090909</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/DEC/80/506">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/17" target="A/RES/80/1">
+      <data key="d0">3.227272727272727</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/RES/80/82">
+      <data key="d0">3.3181818181818183</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/RES/80/80">
+      <data key="d0">2.159090909090909</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/RES/79/90">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/RES/ES-10/26">
+      <data key="d0">3.340909090909091</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/DEC/80/506">
+      <data key="d0">3.25</data>
+    </edge>
+    <edge source="A/RES/80/81" target="A/RES/80/1">
+      <data key="d0">3.1363636363636362</data>
+    </edge>
+    <edge source="A/RES/80/82" target="A/RES/80/80">
+      <data key="d0">1.9545454545454546</data>
+    </edge>
+    <edge source="A/RES/80/82" target="A/RES/79/90">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/80/82" target="A/RES/ES-10/26">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/RES/80/82" target="A/DEC/80/506">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/82" target="A/RES/80/1">
+      <data key="d0">3.0454545454545454</data>
+    </edge>
+    <edge source="A/RES/80/80" target="A/RES/79/90">
+      <data key="d0">1.7954545454545454</data>
+    </edge>
+    <edge source="A/RES/80/80" target="A/RES/ES-10/26">
+      <data key="d0">1.9772727272727273</data>
+    </edge>
+    <edge source="A/RES/80/80" target="A/DEC/80/506">
+      <data key="d0">1.8863636363636365</data>
+    </edge>
+    <edge source="A/RES/80/80" target="A/RES/80/1">
+      <data key="d0">1.75</data>
+    </edge>
+    <edge source="A/RES/79/90" target="A/RES/ES-10/26">
+      <data key="d0">3.272727272727273</data>
+    </edge>
+    <edge source="A/RES/79/90" target="A/DEC/80/506">
+      <data key="d0">3.0681818181818183</data>
+    </edge>
+    <edge source="A/RES/79/90" target="A/RES/80/1">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="A/RES/ES-10/26" target="A/DEC/80/506">
+      <data key="d0">3.2954545454545454</data>
+    </edge>
+    <edge source="A/RES/ES-10/26" target="A/RES/80/1">
+      <data key="d0">3.2045454545454546</data>
+    </edge>
+    <edge source="A/DEC/80/506" target="A/RES/80/1">
+      <data key="d0">3.022727272727273</data>
+    </edge>
+  </graph>
+</graphml>
