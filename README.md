@@ -61,6 +61,15 @@ The script will:
 - Export all 5 GraphML files
 - Print a summary with network statistics and Pakistan analysis
 
+## Data
+
+The project requires two CSV files that are too large for GitHub (347 MB total). Download them from the UN data source or contact the author for access:
+
+- `outcomes.csv`: UN resolution metadata
+- `voting.csv`: Individual country votes
+
+Place these files in the same directory as `main.py` before running the analysis.
+
 ## Output
 
 The terminal output includes:
